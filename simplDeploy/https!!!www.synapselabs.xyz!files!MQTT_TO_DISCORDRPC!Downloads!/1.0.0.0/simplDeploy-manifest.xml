@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<simplDeployManifest xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <roduct>MQTT_To_DiscordRPC</roduct>
+  <publisher>ComputerComa</publisher>
+  <rootUrl>https://www.synapselabs.xyz/files/MQTT_TO_DISCORDRPC/Downloads/MQTT_To_DiscordRPC.simplDeploy-package.exe</rootUrl>
+  <version>1.0.0.0</version>
+  <packageIdentity>
+    <identity>Product:MQTT_To_DiscordRPC#Publisher:ComputerComa#RootUrl:https://www.synapselabs.xyz/files/MQTT_TO_DISCORDRPC/Downloads/MQTT_To_DiscordRPC.simplDeploy-package.exe</identity>
+    <hash>a12e107f4aab387fa8f73a309d7e3d254c81c692ab8085a66739847e9504f07b</hash>
+  </packageIdentity>
+  <entryPoint>MQTT_To_DiscordRPC.exe</entryPoint>
+  <quietMayor>false</quietMayor>
+  <inAppUpdate>false</inAppUpdate>
+  <icon>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</icon>
+  <startupArguments />
+  <customUninstallEnabled>false</customUninstallEnabled>
+  <uninstallArgs />
+  <furnitureArchive>
+    <relativePath>1.0.0.0/furniture.zip.simpl.deploy</relativePath>
+    <checkSum>d564ff7732acd17d79fe9b33716d328a9fb6dee1ed72ed8d46061dd5b4583d02</checkSum>
+    <size>6959777</size>
+  </furnitureArchive>
+  <furniture>
+    <relativePath>1.0.0.0/DiscordRPC.dll</relativePath>
+    <checkSum>4dd4d48e0681604e3a7a72b6eae42173421d0b806b1af8fa03b45d9999978499</checkSum>
+    <size>83968</size>
+  </furniture>
+  <furniture>
+    <relativePath>1.0.0.0/Microsoft.Toolkit.Uwp.Notifications.dll</relativePath>
+    <checkSum>e6676557727bc03cf7bceb1cb7b46ec4623ed7eb57813e8f04785bcd9d868b05</checkSum>
+    <size>163472</size>
+  </furniture>
+  <furniture>
+    <relativePath>1.0.0.0/Microsoft.Windows.SDK.NET.dll</relativePath>
+    <checkSum>40c8981d586a9eae06a57adf56986481c6880099d407f80d6d36f701eb7a0820</checkSum>
+    <size>20581408</size>
+  </furniture>
+  <furniture>
+    <relativePath>1.0.0.0/MQTTnet.dll</relativePath>
+    <checkSum>b3a558ba3dbca855555431bddf10fe14d171f0f2dfc822d87e02f7c80d5a6073</checkSum>
+    <size>337408</size>
+  </furniture>
+  <furniture>
+    <relativePath>1.0.0.0/MQTTnet.Extensions.ManagedClient.dll</relativePath>
+    <checkSum>e42d490c74434f4d6480d86131a185041222af80271fddeba787e01b769ed71a</checkSum>
+    <size>49664</size>
+  </furniture>
+  <furniture>
+    <relativePath>1.0.0.0/MQTTnet.Extensions.TopicTemplate.dll</relativePath>
+    <checkSum>5a826b261c50abce7cd4086635243efd89ad2d51658946031cfe74661d171901</checkSum>
+    <size>14336</size>
+  </furniture>
+  <furniture>
+    <relativePath>1.0.0.0/MQTT_To_DiscordRPC.deps.json</relativePath>
+    <checkSum>2d94a56d301df1c2ee9dcf22c79c10a07b62df3e697ccac3af158e7e866e2b60</checkSum>
+    <size>9035</size>
+  </furniture>
+  <furniture>
+    <relativePath>1.0.0.0/MQTT_To_DiscordRPC.dll</relativePath>
+    <checkSum>67817839d31603641f0d6368ef3326c67d1fb0c34cad2edb00d0259a30a0ad13</checkSum>
+    <size>144384</size>
+  </furniture>
+  <furniture>
+    <relativePath>1.0.0.0/MQTT_To_DiscordRPC.dll.config</relativePath>
+    <checkSum>2f2612f069b02235e764ba1cc5d3876e725c0e9ef685af5f57743593762abee7</checkSum>
+    <size>2039</size>
+  </furniture>
+  <furniture>
+    <relativePath>1.0.0.0/MQTT_To_DiscordRPC.exe</relativePath>
+    <checkSum>a82e4f9cb0e17baa9f8e8779426efdcfe25f14be9a39e703c8959ec0b54d1f89</checkSum>
+    <size>177664</size>
+  </furniture>
+  <furniture>
+    <relativePath>1.0.0.0/MQTT_To_DiscordRPC.runtimeconfig.json</relativePath>
+    <checkSum>c71152bf25e40d647b2440c5b39be157a3d356106be9d5b678ab97bb87b4e782</checkSum>
+    <size>458</size>
+  </furniture>
+  <furniture>
+    <relativePath>1.0.0.0/Newtonsoft.Json.dll</relativePath>
+    <checkSum>72cf291d4bab0edd08a9b07c6173e1e7ad1abb7ab727fd7044bf6305d7515661</checkSum>
+    <size>695336</size>
+  </furniture>
+  <furniture>
+    <relativePath>1.0.0.0/WinRT.Runtime.dll</relativePath>
+    <checkSum>4977a1e6dcee4c3310a68e20f2879cf39b95255e29f3fd7557781e058445cb9b</checkSum>
+    <size>399280</size>
+  </furniture>
+  <furniture>
+    <relativePath>1.0.0.0/Resources/infoicon.png</relativePath>
+    <checkSum>c0113f02eb97ad887b721fb340efa0ea9d77450714e75f3ad1027bf3cb6fc0ff</checkSum>
+    <size>74724</size>
+  </furniture>
+  <furniture>
+    <relativePath>1.0.0.0/Resources/unnamed.png</relativePath>
+    <checkSum>b306e1f078e7cba0d5a5be4a7b98e072a1c30b9d3f690d986ab5d5e1b1045e7b</checkSum>
+    <size>8322</size>
+  </furniture>
+</simplDeployManifest>
